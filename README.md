@@ -1,3 +1,13 @@
+# Java Backend Roadmap 🚀
+
+Este repositório documenta meu estudo prático de **Java para Backend**, seguindo um roadmap progressivo, com foco em **lógica sólida**, **entendimento real** e **boas práticas desde o início**.
+
+O objetivo não é apenas “fazer exercícios”, mas **entender como um desenvolvedor pensa**, corrigir erros e consolidar conceitos antes de avançar.
+
+---
+
+## 📁 Estrutura do Projeto
+
 
 ---
 
