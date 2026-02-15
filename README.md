@@ -161,11 +161,3 @@ Aqui é onde você aprende o que mais cai em exercícios e entrevistas.
 - docker + deploy
 
 ---
-
-## 📌 Onde está a lista completa?
-A lista completa (com exercícios extras) fica em `docs/checklist.md`.
-Este README mostra o caminho **iniciante-friendly** para não travar.
-
-
-
-
